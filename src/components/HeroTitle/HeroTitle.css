@@ -1,0 +1,19 @@
+.hero-container {
+  background-image: url("../../images/complete.jpg");
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position: bottom right;
+}
+
+.hero-small-text {
+  color: #FF6E40;
+}
+
+.todo-hero-img {
+  width: 450px;
+  transition: 0.5s;
+}
+
+.todo-hero-img:hover {
+  transform: rotate(-2deg);
+}

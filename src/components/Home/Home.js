@@ -1,10 +1,14 @@
 import React from "react";
+import { Container } from "react-bootstrap";
+import HeroTitle from "../HeroTitle/HeroTitle";
 import "./Home.css";
 
 const Home = () => {
   return (
-    <div>
-      <h1>This is home</h1>
+    <div className="mt-2">
+      <Container>
+        <HeroTitle></HeroTitle>
+      </Container>
     </div>
   );
 };
