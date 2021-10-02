@@ -1,0 +1,15 @@
+.error-container {
+  text-align: center;
+}
+
+.not-found {
+  width: 650px;
+}
+
+.error-text {
+  width: 350px;
+  margin: auto;
+  padding: 10px;
+  cursor: context-menu;
+  background-color: #FF6E40;
+}

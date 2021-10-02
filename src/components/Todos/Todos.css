@@ -1,0 +1,11 @@
+.detail-btn {
+  padding: 5px 15px;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 3px;
+  background-color: #71ADFF;
+}
+
+.detail-btn:hover {
+  color: #eee;
+}
